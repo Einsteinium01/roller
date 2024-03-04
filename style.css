@@ -1,0 +1,27 @@
+body{
+    color: rgb(250, 187, 0);
+    text-decoration:solid;
+    background-color:cadetblue;
+    text-align: center;
+    font-family: cursive;
+    font-size: 5em;
+    padding: 100px;
+
+}
+
+#button{
+    font-family: cursive;
+    font-size: 70px;
+    padding: 5px 50px;
+    border-radius: 800px;
+    cursor: pointer;
+    border-width: 12px;
+    border-color: rgb(154, 76, 227);
+    border-style:groove;
+    background-color: rgb(249, 207, 144);
+    transition: background-color 0.25s;
+}
+
+#button:hover{
+    background-color: rgb(248, 172, 59);
+}
